@@ -1,0 +1,11 @@
+O que eu quero que o programa faça?
+O programa tem que mostrar uma lista desordenada e mostrar ela ordenando em tempo real com o InsertSort.
+
+Passos:
+A lista já deve está pronta; OK
+mostrar a lista no programa; OK 
+executar a ordernação animada;
+{
+    precisa ter delay para cada execução de mudança da lista; OK
+    toda vez que a lista mudar, precisa renderizar a lista na tela; OK
+}
